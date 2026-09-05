@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libsort.so -o ../../lib/libsort.so CMakeFiles/sort.dir/insert.c.o CMakeFiles/sort.dir/select.c.o 

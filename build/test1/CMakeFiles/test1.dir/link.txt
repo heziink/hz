@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/test1.dir/calc.c.o -o ../../bin/test1   -L/home/hz/C/lib  -Wl,-rpath,/home/hz/C/lib ../../lib/libcalc.a 

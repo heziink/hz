@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/test2.dir/sort.c.o -o ../../bin/test2   -L/home/hz/C/lib  -Wl,-rpath,/home/hz/C/lib ../../lib/libsort.so 
