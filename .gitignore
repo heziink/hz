@@ -1,0 +1,22 @@
+# 依赖
+node_modules/
+vendor/
+
+# 编译产物
+dist/
+build/
+*.o
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 敏感配置
+.env
+*.pem
+
+# 系统文件
+.DS_Store
+Thumbs.db
